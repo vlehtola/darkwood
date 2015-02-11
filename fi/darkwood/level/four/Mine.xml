@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : Mine.xml
+    Created on : 22. huhtikuuta 2010, 18:14
+    Author     : Ville
+    Description:
+        First BigBats, then SpiderSmalls.
+-->
+
+<area name="Abandoned mine" background="/images/background/tier4/Mines.png" path="Mine" level="15">
+
+    <room>
+        <monster class="fi.darkwood.level.four.monsters.BigBat" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.four.monsters.BigBat" level="0"/>
+    </room>
+       <room>
+        <monster class="fi.darkwood.level.four.monsters.BigBat" level="0"/>
+        <monster class="fi.darkwood.level.four.monsters.BigBat" level="0"/>
+    </room>
+     <room>
+        <monster class="fi.darkwood.level.four.monsters.BigBat" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.four.monsters.BigBat" level="0"/>
+        <monster class="fi.darkwood.level.four.monsters.BigBat" level="0"/>
+        <monster class="fi.darkwood.level.four.monsters.BigBat" level="0"/>
+    </room>
+    <room>
+         <chest class="fi.darkwood.Chest" level="15" quality="-1"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.four.monsters.SpiderSmall" level="1"/>
+    </room>
+      <room>
+        <monster class="fi.darkwood.level.four.monsters.SpiderSmall" level="1"/>
+    </room>
+     <room>
+        <monster class="fi.darkwood.level.four.monsters.SpiderSmall" level="1"/>
+        <monster class="fi.darkwood.level.four.monsters.SpiderSmall" level="1"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.four.monsters.SpiderSmall" level="1"/>
+        <monster class="fi.darkwood.level.four.monsters.SpiderSmall" level="1"/>
+        <monster class="fi.darkwood.level.four.monsters.SpiderSmall" level="1"/>
+    </room>
+       <room>
+        <monster class="fi.darkwood.level.four.monsters.SpiderSmall" level="1"/>
+    </room>
+        <room>
+        <monster class="fi.darkwood.level.four.monsters.SpiderSmall" level="1"/>
+    </room>
+     <room>
+        <monster class="fi.darkwood.level.four.monsters.SpiderSmall" level="1"/>
+        <monster class="fi.darkwood.level.four.monsters.SpiderSmall" level="1"/>
+        <monster class="fi.darkwood.level.four.monsters.SpiderSmall" level="1"/>
+    </room>
+    <room>
+         <chest class="fi.darkwood.Chest" level="15" quality="0"/>
+    </room>
+
+</area>

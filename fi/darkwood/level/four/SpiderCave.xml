@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!--
+    Document   : SpiderCave.xml
+    Created on : 7. helmikuuta 2010, 12:57
+    Author     : Ville
+    Description:
+        Purpose of the document follows.
+-->
+
+<area name="Spider cave" background="/images/background/tier4/spider_cave.png" path="Dark cave" level="16">
+    <room>
+        <monster class="fi.darkwood.level.four.monsters.SpiderSmall" level="0"/>
+    </room>
+      <room>
+        <monster class="fi.darkwood.level.four.monsters.SpiderSmall" level="0"/>
+    </room>
+     <room>
+        <monster class="fi.darkwood.level.four.monsters.SpiderSmall" level="0"/>
+        <monster class="fi.darkwood.level.four.monsters.SpiderSmall" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.four.monsters.SpiderSmall" level="0"/>
+        <monster class="fi.darkwood.level.four.monsters.SpiderSmall" level="0"/>
+        <monster class="fi.darkwood.level.four.monsters.SpiderSmall" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.four.monsters.Spider" level="1"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.four.monsters.Spider" level="1"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.four.monsters.Spider" level="1"/>
+        <monster class="fi.darkwood.level.four.monsters.Spider" level="1"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.four.monsters.Spider" level="1"/>
+    </room>
+     <room>
+         <chest class="fi.darkwood.Chest" level="16" quality="-1"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.four.monsters.SpiderSmall" level="0"/>
+        <monster class="fi.darkwood.level.four.monsters.Spider" level="1"/>
+        <monster class="fi.darkwood.level.four.monsters.SpiderSmall" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.four.monsters.Spider" level="1"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.four.monsters.SpiderSmall" level="0"/>
+        <monster class="fi.darkwood.level.four.monsters.SpiderSmall" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.four.monsters.Spider" level="1"/>
+        <monster class="fi.darkwood.level.four.monsters.SpiderSmall" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.four.monsters.Spider" level="1"/>
+    </room>
+     <room>
+        <monster class="fi.darkwood.level.four.monsters.Spider" level="1"/>
+        <monster class="fi.darkwood.level.four.monsters.Spider" level="1"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.four.monsters.SpiderSmall" level="0"/>
+        <monster class="fi.darkwood.level.four.monsters.SpiderSmall" level="0"/>
+        <monster class="fi.darkwood.level.four.monsters.SpiderSmall" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.four.monsters.SpiderSmall" level="0"/>
+        <monster class="fi.darkwood.level.four.monsters.SpiderSmall" level="0"/>
+        <monster class="fi.darkwood.level.four.monsters.SpiderQueen" level="3" elite="true"/>
+    </room>
+    <room>
+         <chest class="fi.darkwood.Chest" level="16" quality="1"/>
+    </room>
+
+</area>

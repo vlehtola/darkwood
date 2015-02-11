@@ -1,0 +1,18 @@
+total 72
+drwxrwxr-x. 3 caleb caleb 4096 Aug  2 12:12 cleric
+-rwxrw-r--. 1 caleb caleb  187 Nov  8 21:47 convert_script
+-rw-rw-r--. 1 caleb caleb  160 Oct 26 20:49 empty_22x22.png
+-rw-rw-r--. 1 caleb caleb  613 Oct 26 20:48 empty_22x22.xcf
+-rw-rw-r--. 1 caleb caleb 5369 Nov  8 21:15 empty_slot_big.png
+-rw-rw-r--. 1 caleb caleb 3469 Aug  2 12:12 empty_slot.png
+-rw-rw-r--. 1 caleb caleb 3574 Aug  2 12:12 enrage.png
+-rw-rw-r--. 1 caleb caleb 3560 Aug  2 12:12 enrage_pressed.png
+-rw-rw-r--. 1 caleb caleb    0 Nov  8 21:47 filelist.tmp
+drwxrwxr-x. 3 caleb caleb 4096 Aug  2 12:12 mage
+-rw-rw-r--. 1 caleb caleb 6348 Nov  8 21:42 power_strike_big.png
+-rw-rw-r--. 1 caleb caleb 3741 Aug  2 12:12 power_strike.png
+-rw-rw-r--. 1 caleb caleb 3738 Aug  2 12:12 power_strike_pressed.png
+-rw-rw-r--. 1 caleb caleb 3707 Aug  2 12:12 shield_wall.png
+-rw-rw-r--. 1 caleb caleb 3687 Aug  2 12:12 shield_wall_pressed.png
+-rw-rw-r--. 1 caleb caleb 3668 Aug  2 12:12 whirlwind_stance.png
+-rw-rw-r--. 1 caleb caleb 3641 Aug  2 12:12 whirlwind_stance_pressed.png

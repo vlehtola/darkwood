@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!--
+    Document   : RoadToCapital.xml
+    Created on : December 14, 2008, 11:13 AM
+    Author     : Teemu
+    Description:
+        Purpose of the document follows.
+-->
+<area name="Road to Snow keep" background="/images/background/tier4/road_to_snow_keep.png" path="Road" level="19">
+    <room>
+    </room>
+     <room>
+        <monster class="fi.darkwood.level.five.monsters.PolarBear" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.five.monsters.PolarBear" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.five.monsters.PolarBear" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.five.monsters.PolarBear" level="0"/>
+        <monster class="fi.darkwood.level.five.monsters.PolarBear" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.five.monsters.PolarBear" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.five.monsters.PolarBear" level="0"/>
+    </room>
+    <room exit="fi.darkwood.level.five.SnowkeepCityZone">
+    </room>
+</area>

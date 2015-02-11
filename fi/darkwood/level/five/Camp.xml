@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!--
+    Document   : Camp.xml
+    Created on : 7. helmikuuta 2010, 13:25
+    Author     : Ville
+    Description:
+        Purpose of the document follows.
+-->
+
+<area name="Camp" background="/images/background/tier5/camp.png" path="Camp" level="18">
+    <room>
+        <monster class="fi.darkwood.level.five.monsters.Barbarian" level="1"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.five.monsters.Barbarian" level="1"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.five.monsters.Hound" level="0"/>
+        <monster class="fi.darkwood.level.five.monsters.Barbarian" level="1"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.five.monsters.Hound" level="0"/>
+        <monster class="fi.darkwood.level.five.monsters.Barbarian" level="1"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.five.monsters.Barbarian" level="1"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.five.monsters.Barbarian" level="1"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.five.monsters.Hound" level="0"/>
+        <monster class="fi.darkwood.level.five.monsters.Hound" level="0"/>
+    </room>
+    <room>
+        <chest class="fi.darkwood.Chest" level="18" quality="-1"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.five.monsters.Hound" level="0"/>
+        <monster class="fi.darkwood.level.five.monsters.Barbarian" level="1"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.five.monsters.Barbarian" level="1"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.five.monsters.Hound" level="0"/>
+        <monster class="fi.darkwood.level.five.monsters.Barbarian" level="1"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.five.monsters.Barbarian" level="1"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.five.monsters.Barbarian" level="1"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.five.monsters.Hound" level="0"/>
+        <monster class="fi.darkwood.level.five.monsters.Hound" level="0"/>
+        <monster class="fi.darkwood.level.five.monsters.Berserker" level="2"/>
+    </room>
+   
+    <room>
+        <chest class="fi.darkwood.Chest" level="18" quality="0"/>
+    </room>
+</area>

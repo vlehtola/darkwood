@@ -1,0 +1,25 @@
+Armor + Helmet:
+
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+
+public final static int[] ANIMATION_X_MAGE = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0};
+
+public final static int[] ANIMATION_Y_MAGE = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0};
+
+
+Weapon: 
+
+0, up + left, up + left, down + left, down, down, right, 0, up + right, right
+
+public final static int[] ANIMATION_X_MAGE = {0, -1, -2, -3, -3, -3, -2, -2, -1, 0} 
+
+public final static int[] ANIMATION_X_MAGE = {0, -1, -2, -1, 0, 1, 1, 1, 0, 0}
+
+
+Shield:
+
+0, down, down, right, right, up, up, left, left, 0
+
+public final static int[] ANIMATION_X_MAGE = {0, 0, 0, 1, 2, 2, 2, 1, 0, 0};
+
+public final static int[] ANIMATION_X_MAGE = {0, 1, 2, 2, 2, 1, 0, 0, 0, 0 };

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : PartyCrypt.xml
+    Created on : 12. elokuuta 2010, 18:11
+    Author     : Ville
+    Description:
+        Boss: abomination, double chest at the end. ENDGAME AREA
+-->
+
+<area name="Crypt" background="/images/background/crypt.png" path="Crypt" level="31" party="yes">
+    <room>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.Gargoyle" level="0"/>
+        <monster class="fi.darkwood.level.six.monsters.Gargoyle" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.StoneGolem" level="1"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.Mummy" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.Mummy" level="0"/>
+        <monster class="fi.darkwood.level.six.monsters.Mummy" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.StoneGolem" level="1"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.StoneGolem" level="1"/>
+    </room>
+    
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.StoneGolem" level="1"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.Mummy" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.Mummy" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.StoneGolem" level="1"/>
+        <monster class="fi.darkwood.level.six.monsters.StoneGolem" level="1"/>
+    </room>
+
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.Abomination" level="2" elite="true"/>
+    </room>
+   
+    <room>
+         <chest class="fi.darkwood.Chest" level="33" quality="2"/>
+    </room>
+    <room>
+         <chest class="fi.darkwood.Chest" level="30" quality="2"/>
+    </room>
+</area>

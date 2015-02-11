@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : RoadToExpeditionCamp.xml
+    Created on : 13. toukokuuta 2010, 12:20
+    Author     : Ville
+    Description:
+        Purpose of the document follows.
+-->
+
+<area name="Path over the mountains" background="/images/background/tier4/to expedition camp.png" path="Path" level="25">
+    <room>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.five.monsters.PolarBear" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.five.monsters.Barbarian" level="1"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.five.monsters.Barbarian" level="1"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.Skeleton" level="0"/>
+        <monster class="fi.darkwood.level.six.monsters.Skeleton" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.Skeleton" level="0"/>
+    </room>
+    <room>
+        <chest class="fi.darkwood.Chest" level="25" quality="-1"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.Skeleton" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.Skeleton" level="0"/>
+        <monster class="fi.darkwood.level.six.monsters.Skeleton" level="0"/>
+    </room>
+     
+    <room exit="fi.darkwood.level.six.ExpeditionCampCityZone">
+    </room>
+</area>

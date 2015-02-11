@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!--
+    Document   : SiegeMachines.xml
+    Created on : 7. helmikuuta 2010, 13:41
+    Author     : Ville
+    Description:
+        Purpose of the document follows.
+-->
+
+<area name="Siege Machines" background="/images/background/tier5/siege_machines.png" path="Siege" level="20">
+    
+     <room>
+        <monster class="fi.darkwood.level.five.monsters.Hound" level="0"/>
+        <monster class="fi.darkwood.level.five.monsters.Barbarian" level="1"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.five.monsters.Berserker" level="2"/>
+        <monster class="fi.darkwood.level.five.monsters.Barbarian" level="1"/>
+    </room>
+     <room>
+        <monster class="fi.darkwood.level.five.monsters.Berserker" level="2"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.five.monsters.Hound" level="0"/>
+        <monster class="fi.darkwood.level.five.monsters.Berserker" level="2"/>
+    </room>
+     <room>
+        <monster class="fi.darkwood.level.five.monsters.Berserker" level="2"/>
+    </room>
+     <room>
+        <monster class="fi.darkwood.level.five.monsters.Berserker" level="2"/>
+        <monster class="fi.darkwood.level.five.monsters.Berserker" level="2"/>
+    </room>
+    <room>
+         <monster class="fi.darkwood.level.five.monsters.Hound" level="0"/>
+        <monster class="fi.darkwood.level.five.monsters.Barbarian" level="1"/>
+    </room>
+     <room>
+        <monster class="fi.darkwood.level.five.monsters.Berserker" level="2"/>
+    </room>
+    <room>
+         <chest class="fi.darkwood.Chest" level="18" quality="-1"/>
+    </room>
+     <room>
+        <monster class="fi.darkwood.level.five.monsters.Barbarian" level="1"/>
+        <monster class="fi.darkwood.level.five.monsters.Barbarian" level="1"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.five.monsters.Berserker" level="2"/>
+        <monster class="fi.darkwood.level.five.monsters.Berserker" level="2"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.five.monsters.Berserker" level="2"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.five.monsters.Berserker" level="2"/>
+    </room>
+     <room>
+         <monster class="fi.darkwood.level.five.monsters.Hound" level="0"/>
+         <monster class="fi.darkwood.level.five.monsters.Hound" level="0"/>
+         <monster class="fi.darkwood.level.five.monsters.Berserker" level="2"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.five.monsters.Hound" level="0"/>
+        <monster class="fi.darkwood.level.five.monsters.BarbarianBoss" level="3" elite="true"/>
+    </room>
+    <room>
+         <chest class="fi.darkwood.Chest" level="18" quality="1"/>
+    </room>
+</area>

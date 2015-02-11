@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!--
+    Document   : VillageFields.xml
+    Created on : November 10, 2008, 7:39 PM
+    Author     : Ville
+    Description:
+        Purpose of the document follows.
+-->
+
+<area name="Village fields" background="/images/background/villageFields.png" path="Fields" level="1">
+    <room>
+       
+    </room>
+
+    <room>
+        <monster class="fi.darkwood.level.one.monsters.Wolf" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.one.monsters.Wolf" level="0"/>
+    </room>
+    <room>        
+        <monster class="fi.darkwood.level.one.monsters.Wolf" level="0"/>
+    </room>
+        <room>
+        <monster class="fi.darkwood.level.one.monsters.Wolf" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.one.monsters.Wolf" level="0"/>
+        <monster class="fi.darkwood.level.one.monsters.Wolf" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.one.monsters.Wolf" level="0"/>
+    </room>
+
+    <room>        
+        <monster class="fi.darkwood.level.one.monsters.BigWolf" level="1"/>
+    </room>    
+    <room>
+        <chest class="fi.darkwood.Chest" quality="-1" level="1"/>
+        
+    </room>
+
+</area>

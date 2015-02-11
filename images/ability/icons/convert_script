@@ -1,0 +1,6 @@
+ls -l > filelist.tmp
+
+awk '{print "convert "$9" -resize 200% "$9".big" }' filelist.tmp > filelist2.tmp
+sed s/".png.big"/"_big.png"/ filelist2.tmp > filelist.exec
+chmod u+x filelist.exec
+

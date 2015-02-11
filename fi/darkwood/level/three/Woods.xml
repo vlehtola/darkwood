@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!--
+    Document   : CastleKeep.xml
+    Created on : December 30, 2008, 2:11 PM
+    Author     : Ville
+    Description:
+        Purpose of the document follows.
+-->
+
+<area name="Woods" background="/images/background/forest.png" path="Woods" level="9">
+    <room>
+        
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.three.monsters.Bandit" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.three.monsters.Bandit" level="0"/>
+        <monster class="fi.darkwood.level.three.monsters.Bandit" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.three.monsters.Bandit" level="0"/>
+    </room>
+     <room>
+        <monster class="fi.darkwood.level.three.monsters.Bandit" level="0"/>
+        <monster class="fi.darkwood.level.three.monsters.Bandit" level="0"/>
+        <monster class="fi.darkwood.level.three.monsters.Bandit" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.three.monsters.Bandit" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.three.monsters.Bandit" level="1"/>
+        <monster class="fi.darkwood.level.three.monsters.Bandit" level="1"/>
+    </room>
+    <room>
+         <chest class="fi.darkwood.Chest" level="9" quality="-1"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.three.monsters.Bandit" level="2"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.three.monsters.Bandit" level="2"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.three.monsters.Bandit" level="2"/>
+        <monster class="fi.darkwood.level.three.monsters.Bandit" level="2"/>
+        <monster class="fi.darkwood.level.three.monsters.Bandit" level="2"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.three.monsters.BanditLeader" level="3" elite="true"/>
+    </room>
+    <room>
+         <chest class="fi.darkwood.Chest" level="10" quality="0"/>
+    </room>
+
+</area>

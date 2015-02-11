@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!--
+    Document   : RoadToKeep.xml
+    Created on : December 30, 2008, 2:07 PM
+    Author     : Ville
+    Description:
+        Purpose of the document follows.
+-->
+<area name="Small road" background="/images/background/village_road.png" path="Road" level="10">
+    <room>
+       
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.three.monsters.FencingGuard" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.three.monsters.FencingGuard" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.three.monsters.FencingGuard" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.three.monsters.FencingGuard" level="0"/>
+        <monster class="fi.darkwood.level.three.monsters.FencingGuard" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.three.monsters.FencingGuard" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.three.monsters.FencingGuard" level="0"/>
+        <monster class="fi.darkwood.level.three.monsters.FencingGuard" level="0"/>
+    </room>
+    <room>
+         <chest class="fi.darkwood.Chest" level="10" quality="-1"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.three.monsters.FencingGuard" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.three.monsters.FencingGuard" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.three.monsters.FencingGuard" level="0"/>
+    </room>
+    
+    <room exit="fi.darkwood.level.three.CastleEntrance">
+    </room>
+</area>

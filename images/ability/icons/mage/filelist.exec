@@ -1,0 +1,10 @@
+convert  -resize 200% .big
+convert filelist.tmp -resize 200% filelist.tmp.big
+convert fireball.png -resize 200% fireball_big.png
+convert fireball_pressed.png -resize 200% fireball_pressed_big.png
+convert ignite.png -resize 200% ignite_big.png
+convert ignite_pressed.png -resize 200% ignite_pressed_big.png
+convert meteor_strike.png -resize 200% meteor_strike_big.png
+convert meteor_strike_pressed.png -resize 200% meteor_strike_pressed_big.png
+convert polymorph.png -resize 200% polymorph_big.png
+convert polymorph_pressed.png -resize 200% polymorph_pressed_big.png

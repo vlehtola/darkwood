@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!--
+    Document   : DarkForest.xml
+    Created on : November 10, 2008, 7:39 PM
+    Author     : Ville
+    Description:
+        Purpose of the document follows.
+-->
+
+<area name="Dark forest" background="/images/background/forest.png" path="Forest" level="1">
+    <room>
+       
+    </room>
+    
+    <room>
+        <monster class="fi.darkwood.level.one.monsters.Wolf" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.one.monsters.Wolf" level="0"/>
+    </room>
+    <room>        
+        <monster class="fi.darkwood.level.one.monsters.Wolf" level="0"/>
+        <monster class="fi.darkwood.level.one.monsters.Wolf" level="0"/>
+    </room>
+    <room>        
+        <monster class="fi.darkwood.level.one.monsters.BigWolf" level="1"/>
+    </room>    
+    <room>        
+        <monster class="fi.darkwood.level.one.monsters.Wolf" level="0"/>
+    </room>
+    <room>        
+        <monster class="fi.darkwood.level.one.monsters.Wolf" level="0"/>
+        <monster class="fi.darkwood.level.one.monsters.Wolf" level="0"/>
+        <monster class="fi.darkwood.level.one.monsters.Wolf" level="0"/>
+    </room>
+    <room>        
+        <monster class="fi.darkwood.level.one.monsters.Wolf" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.one.monsters.BigWolf" level="1"/>
+        <monster class="fi.darkwood.level.one.monsters.BigWolf" level="1"/>
+    </room>
+    <room>        
+        <monster class="fi.darkwood.level.one.monsters.BigWolf" level="1"/>
+    </room>    
+    <room>        
+        <monster class="fi.darkwood.level.one.monsters.Wolf" level="0"/>
+        <monster class="fi.darkwood.level.one.monsters.Wolf" level="0"/>
+        <monster class="fi.darkwood.level.one.monsters.BigWolf" level="1"/>
+    </room>   
+    <room>
+        <monster class="fi.darkwood.level.one.monsters.Werewolf" level="2" elite="true"/>
+    </room>
+    <room>
+        <chest class="fi.darkwood.Chest" level="2" quality="0"/>
+        
+    </room>
+
+</area>

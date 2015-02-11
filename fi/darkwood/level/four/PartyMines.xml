@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : PartyMines.xml
+    Created on : 26. toukokuuta 2010, 20:47
+    Author     : Ville
+    Description:
+        Purpose of the document follows.
+-->
+
+<area name="Ancient mine" background="/images/background/tier4/Mines.png" path="Mine" level="16" party="yes">
+    <room>
+
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.four.monsters.BigBat" level="0" elite="true"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.four.monsters.BigBat" level="0" elite="true"/>
+        <monster class="fi.darkwood.level.four.monsters.BigBat" level="0" elite="true"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.four.monsters.BigBat" level="0" elite="true"/>
+        <monster class="fi.darkwood.level.four.monsters.BigBat" level="0" elite="true"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.four.monsters.StoneGolem" level="2" elite="true"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.four.monsters.StoneGolem" level="2" elite="true"/>
+    </room>
+    <room>
+        <chest class="fi.darkwood.Chest" level="15" quality="1"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.four.monsters.StoneGolem" level="2" elite="true"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.four.monsters.StoneGolem" level="2" elite="true"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.four.monsters.Zombie" level="1" elite="true"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.four.monsters.Zombie" level="1" elite="true"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.four.monsters.Zombie" level="1" elite="true"/>
+        <monster class="fi.darkwood.level.four.monsters.Zombie" level="1" elite="true"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.four.monsters.Zombie" level="1" elite="true"/>
+        <monster class="fi.darkwood.level.four.monsters.Zombie" level="1" elite="true"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.four.monsters.StoneGolem" level="2" elite="true"/>
+        <monster class="fi.darkwood.level.four.monsters.StoneGolem" level="2" elite="true"/>
+    </room>
+    <room>
+        <chest class="fi.darkwood.Chest" level="20" quality="2"/>
+    </room>
+    <room>
+        <chest class="fi.darkwood.Chest" level="20" quality="2"/>
+    </room>
+</area>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : CastleDungeon.xml
+    Created on : 15. toukokuuta 2010, 11:03
+    Author     : Ville
+    Description:
+        Party area. two chests at the end!
+-->
+
+<area name="Castle dungeon" background="/images/background/crypt.png" path="Dungeon" level="13" party="yes">
+    <room>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.three.monsters.Halberdier" level="0" elite="true"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.three.monsters.Halberdier" level="0" elite="true"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.two.monsters.Zombie" level="0" elite="true"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.two.monsters.Zombie" level="0" elite="true"/>
+        <monster class="fi.darkwood.level.two.monsters.Zombie" level="0" elite="true"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.three.monsters.SkeletonKnight" level="1" elite="true"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.three.monsters.SkeletonKnight" level="1" elite="true"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.Gargoyle" level="3" elite="true"/>
+    </room>
+   
+    <room>
+        <monster class="fi.darkwood.level.three.monsters.SkeletonKnight" level="1" elite="true"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.three.monsters.SkeletonKnight" level="1" elite="true"/>
+        <monster class="fi.darkwood.level.three.monsters.SkeletonKnight" level="1" elite="true"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.three.monsters.SkeletonKnight" level="1" elite="true"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.BigBat" level="0" elite="true"/>
+        <monster class="fi.darkwood.level.six.monsters.BigBat" level="0" elite="true"/>
+        <monster class="fi.darkwood.level.six.monsters.BigBat" level="0" elite="true"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.Gargoyle" level="3" elite="true"/>
+    </room>
+    <room>
+        <chest class="fi.darkwood.Chest" level="15" quality="2"/>
+    </room>
+    <room>
+        <chest class="fi.darkwood.Chest" level="15" quality="2"/>
+    </room>
+
+</area>

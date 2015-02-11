@@ -1,0 +1,4 @@
+29 x 60 px per frame
+
+10 frames Idle
+6 frames Ability

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : InnerChamber.xml
+    Created on : 29. huhtikuuta 2010, 18:10
+    Author     : Ville
+    Description:
+        Purpose of the document follows.
+-->
+
+<area name="Inner Chambers" background="/images/background/tier6/inner_pyramids.png" path="Chambers" level="29">
+    <room>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.Mummy" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.Mummy" level="0"/>
+        <monster class="fi.darkwood.level.six.monsters.Mummy" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.StoneGolem" level="1"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.StoneGolem" level="1"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.Gargoyle" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.Gargoyle" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.StoneGolem" level="1"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.Gargoyle" level="0"/>
+    </room>
+
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.StoneGolem" level="1"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.StoneGolem" level="1"/>
+        <monster class="fi.darkwood.level.six.monsters.StoneGolem" level="1"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.Mummy" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.Mummy" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.Mummy" level="-1"/>
+        <monster class="fi.darkwood.level.six.monsters.Mummy" level="-1"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.Mummy" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.Mummy" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.Mummy" level="0"/>
+    </room>
+    <room>
+    </room>
+    <room>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.Mummy" level="-4"/>
+        <monster class="fi.darkwood.level.six.monsters.SkeletonKing" level="0" elite="true"/>
+    </room>
+    <room>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.Curmu" level="2" elite="true"/>
+    </room>
+    <room>
+        <chest class="fi.darkwood.Chest" level="30" quality="2"/>
+    </room>
+</area>

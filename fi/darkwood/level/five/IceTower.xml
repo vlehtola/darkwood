@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!--
+    Document   : IceTower.xml
+    Created on : 7. helmikuuta 2010, 13:53
+    Author     : Ville
+    Description:
+        Home of the Ice Queen.
+-->
+
+<area name="Tower of Ice" background="/images/background/tier5/ice tower inside.png" path="Tower" level="23">
+
+     <room>
+        <monster class="fi.darkwood.level.five.monsters.PolarBear" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.five.monsters.PolarBear" level="0"/>
+        <monster class="fi.darkwood.level.five.monsters.PolarBear" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.five.monsters.Berserker" level="1"/>
+        <monster class="fi.darkwood.level.five.monsters.Berserker" level="1"/>
+         <monster class="fi.darkwood.level.five.monsters.Berserker" level="1"/>
+    </room>
+     <room>
+         <monster class="fi.darkwood.level.five.monsters.Berserker" level="1"/>
+    </room>
+    <room>
+         <monster class="fi.darkwood.level.five.monsters.Berserker" level="1"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.five.monsters.PolarBear" level="0"/>
+    </room>
+    <room>
+         <monster class="fi.darkwood.level.five.monsters.Berserker" level="1"/>
+    </room>
+    <room>
+         <monster class="fi.darkwood.level.five.monsters.Berserker" level="1"/>
+    </room>
+
+    <room>
+        <monster class="fi.darkwood.level.five.monsters.BarbarianBoss" level="1" elite="true"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.five.monsters.PolarBear" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.five.monsters.PolarBear" level="0" elite="true"/>
+        <monster class="fi.darkwood.level.five.monsters.IceQueen" level="2" elite="true"/>
+    </room>
+    <room>
+         <chest class="fi.darkwood.Chest" level="23" quality="2"/>
+    </room>
+</area>

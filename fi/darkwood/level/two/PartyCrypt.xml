@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!--
+    Document   : PartyCrypt.xml
+    Created on : 19. syyskuuta 2009, 17:43
+    Author     : Ville
+    Description:
+        Purpose of the document follows.
+-->
+
+<area name="Ancient crypt" background="/images/background/crypt.png" path="Forest" level="9" party="yes">
+    <room>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.two.monsters.Skeleton" level="0" elite="true"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.two.monsters.Skeleton" level="0" elite="true"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.two.monsters.SkeletonWarrior" level="1" elite="true"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.two.monsters.Skeleton" level="0" elite="true"/>
+        <monster class="fi.darkwood.level.two.monsters.Skeleton" level="0" elite="true"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.two.monsters.SkeletonWarrior" level="1" elite="true"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.two.monsters.SkeletonWarrior" level="1" elite="true"/>
+        <monster class="fi.darkwood.level.two.monsters.Skeleton" level="0" elite="true"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.two.monsters.SkeletonWarrior" level="1" elite="true"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.two.monsters.SkeletonWarrior" level="1" elite="true"/>
+        <monster class="fi.darkwood.level.two.monsters.SkeletonWarrior" level="1" elite="true"/>
+        <monster class="fi.darkwood.level.two.monsters.Skeleton" level="0" elite="true"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.two.monsters.Skeleton" level="0" elite="true"/>
+        <monster class="fi.darkwood.level.two.monsters.Skeleton" level="0" elite="true"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.two.monsters.Skeleton" level="0" elite="true"/>
+        <monster class="fi.darkwood.level.two.monsters.Skeleton" level="0" elite="true"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.two.monsters.SkeletonWarrior" level="1" elite="true"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.two.monsters.SkeletonWarrior" level="1" elite="true"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.two.monsters.SkeletonWarrior" level="1" elite="true"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.two.monsters.SkeletonWarrior" level="1" elite="true"/>
+        <monster class="fi.darkwood.level.two.monsters.SkeletonWarrior" level="1" elite="true"/>
+        <monster class="fi.darkwood.level.two.monsters.SkeletonWarrior" level="1" elite="true"/>
+    </room>
+
+    <room>
+        <chest class="fi.darkwood.Chest" level="10" quality="2"/>
+
+    </room>
+
+</area>

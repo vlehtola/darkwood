@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : AncientTomb.xml
+    Created on : 29. huhtikuuta 2010, 17:59
+    Author     : Ville
+    Description:
+        Purpose of the document follows.
+-->
+
+<area name="Ancient Tomb" background="/images/background/tier6/temple.png" path="Tomb" level="25">
+    <room>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.Gargoyle" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.Gargoyle" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.StoneGolem" level="1"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.Gargoyle" level="0"/>
+        <monster class="fi.darkwood.level.six.monsters.Gargoyle" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.StoneGolem" level="1"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.StoneGolem" level="1"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.StoneGolem" level="1"/>
+        <monster class="fi.darkwood.level.six.monsters.StoneGolem" level="1"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.Gargoyle" level="0"/>
+        <monster class="fi.darkwood.level.six.monsters.Gargoyle" level="0"/>
+    </room>
+     <room>
+        <monster class="fi.darkwood.level.six.monsters.StoneGolem" level="1"/>
+    </room>
+     <room>
+        <monster class="fi.darkwood.level.six.monsters.Gargoyle" level="0"/>
+        <monster class="fi.darkwood.level.six.monsters.StoneGolem" level="1"/>
+    </room>
+    <room>
+         <chest class="fi.darkwood.Chest" level="25" quality="1"/>
+    </room>
+</area>

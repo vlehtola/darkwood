@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!--
+    Document   : ArmorNames.xml
+    Created on : 1. helmikuuta 2009, 14:26
+    Author     : Ville
+    Description:
+        Purpose of the document follows.
+
+        public static final int ARMOR_HEAVY = 0,  ARMOR_MEDIUM = 1,  ARMOR_LIGHT = 3,  ARMOR_CLOTH = 2;
+    public static final int SLOT_HEAD = 0;
+    public static final int SLOT_CHEST = 1;
+    public static final int SLOT_RIGHT_HAND = 2;
+    public static final int SLOT_LEFT_HAND = 3;
+-->
+<root>
+    <armortype type="0">
+        <slot slot="0">
+            <tier tier="1">
+                <item name="Bascinet" icon="helmet.png" doll="warrior/bascinet.png" />
+            </tier>
+            <tier tier="2">
+                <item name="Armet" icon="helmet.png" doll="warrior/armet.png" />
+            </tier>
+            <tier tier="3">
+                <item name="Great helm" icon="helmet.png" doll="warrior/great-helm.png" />
+            </tier>
+        </slot>
+        <slot slot="1">
+            <tier tier="1">
+                <item name="Cuirass" icon="armour.png" doll="warrior/cuirass.png" />
+            </tier>
+            <tier tier="2">
+                <item name="Half plate" icon="armour.png" doll="warrior/half-plate.png" />
+            </tier>
+            <tier tier="3">
+                <item name="Full plate" icon="armour.png" doll="warrior/full-plate.png" />
+            </tier>
+        </slot>
+        <slot slot="2">
+            <tier tier="1">
+                <item name="Short sword" icon="weapon.png" doll="warrior/short-sword.png" />
+            </tier>
+            <tier tier="2">
+                <item name="Longsword" icon="weapon.png" doll="warrior/longsword.png" />
+            </tier>
+            <tier tier="3">
+                <item name="Great sword" icon="weapon.png" doll="warrior/great-sword.png" />
+            </tier>
+        </slot>
+        <slot slot="3">
+            <tier tier="1">
+                <item name="Small shield" icon="shield.png" doll="shield.png" />
+            </tier>
+            <tier tier="2">
+                <item name="Shield" icon="shield.png" doll="shield.png" />
+            </tier>
+            <tier tier="3">
+                <item name="Tower shield" icon="shield.png" doll="tower-shield.png" />
+            </tier>
+        </slot>
+    </armortype>
+    <armortype type="1"> <!-- MEDIUM ARMOR -->
+        <slot slot="0">
+            <tier tier="1">
+                <item name="Cap" icon="helmet.png" doll="cleric/cap.png" />
+            </tier>
+            <tier tier="2">
+                <item name="Chain coif" icon="helmet.png" doll="cleric/coif.png" />
+            </tier>
+            <tier tier="3">
+                <item name="Barbute" icon="helmet.png" doll="cleric/barbute.png" />
+            </tier>
+        </slot>
+        <slot slot="1">
+            <tier tier="1">
+                <item name="Brigandine" icon="armour.png" doll="cleric/brigandine.png" />
+            </tier>
+            <tier tier="2">
+                <item name="Hauberk" icon="armour.png" doll="cleric/hauberk.png" />
+            </tier>
+            <tier tier="3">
+                <item name="Chain mail" icon="armour.png" doll="cleric/chainmail.png" />
+            </tier>
+        </slot>
+        <slot slot="2">
+            <tier tier="1">
+                <item name="Club" icon="weapon.png" doll="cleric/club.png" />
+            </tier>
+            <tier tier="2">
+                <item name="Mace" icon="weapon.png" doll="cleric/mace.png" />
+            </tier>
+            <tier tier="3">
+                <item name="Hammer" icon="weapon.png" doll="cleric/hammer.png" />
+            </tier>
+        </slot>
+        <slot slot="3">
+            <tier tier="1">
+                <item name="Buckler" icon="shield.png" doll="buckler.png" />
+            </tier>
+            <tier tier="2">
+                <item name="Shield" icon="shield.png" doll="shield.png" />
+            </tier>
+            <tier tier="3">
+                <item name="Tower shield" icon="shield.png" doll="tower-shield.png" />
+            </tier>
+        </slot>
+    </armortype>
+    <armortype type="2"> <!-- CLOTH ARMOR -->
+        <slot slot="0">
+            <tier tier="1">
+                <item name="Headband" icon="helmet.png" doll="mage/head_empty.png" />
+            </tier>
+            <tier tier="2">
+                <item name="Diadem" icon="helmet.png" doll="mage/head_empty.png" />
+            </tier>
+            <tier tier="3">
+                <item name="Magecrown" icon="helmet.png" doll="mage/head_empty.png" />
+            </tier>
+        </slot>
+        <slot slot="1">
+            <tier tier="1">
+                <item name="Common robe" icon="armour.png" doll="mage/common-robe.png" />
+            </tier>
+            <tier tier="2">
+                <item name="Fine robe" icon="armour.png" doll="mage/fine-robe.png" />
+            </tier>
+            <tier tier="3">
+                <item name="Blazing robe" icon="armour.png" doll="mage/blazing-robe.png" />
+            </tier>
+        </slot>
+        <slot slot="2">
+            <tier tier="1">
+                <item name="Dagger" icon="weapon.png" doll="mage/dagger.png" />
+            </tier>
+            <tier tier="2">
+                <item name="Quarterstaff" icon="weapon.png" doll="mage/staff.png" />
+            </tier>
+            <tier tier="3">
+                <item name="Magestaff" icon="weapon.png" doll="mage/staff.png" />
+            </tier>
+        </slot>
+        <slot slot="3">
+            <tier tier="1">
+                <item name="Glass orb" icon="shield.png" doll="mage/crystal-ball.png" />
+            </tier>
+            <tier tier="2">
+                <item name="Crystal orb" icon="shield.png" doll="mage/crystal-ball.png" />
+            </tier>
+            <tier tier="3">
+                <item name="Crystal ball" icon="shield.png" doll="mage/crystal-ball.png" />
+            </tier>
+        </slot>
+    </armortype>
+</root>

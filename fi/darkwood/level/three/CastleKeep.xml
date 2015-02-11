@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!--
+    Document   : CastleKeep.xml
+    Created on : December 30, 2008, 2:11 PM
+    Author     : Ville
+    Description:
+        Purpose of the document follows.
+-->
+
+<area name="Castle keep" background="/images/background/keep.png" path="Keep" level="13">
+    <room>
+        
+    </room>
+     <room>
+        <monster class="fi.darkwood.level.three.monsters.Halberdier" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.three.monsters.Halberdier" level="0"/>
+        <monster class="fi.darkwood.level.three.monsters.Halberdier" level="0"/>
+    </room>
+     <room>
+        <monster class="fi.darkwood.level.three.monsters.Halberdier" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.three.monsters.SkeletonKnight" level="2"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.three.monsters.SkeletonKnight" level="2"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.three.monsters.SkeletonKnight" level="2"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.three.monsters.SkeletonKnight" level="2"/>
+        <monster class="fi.darkwood.level.three.monsters.SkeletonKnight" level="2"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.three.monsters.SkeletonKnight" level="2"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.three.monsters.Baron" level="4" elite="true"/>
+    </room>
+    <room>
+         <chest class="fi.darkwood.Chest" level="15" quality="2"/>
+    </room>
+
+</area>

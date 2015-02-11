@@ -1,0 +1,18 @@
+convert  -resize 200% .big
+convert cleric -resize 200% cleric.big
+convert convert_script -resize 200% convert_script.big
+convert empty_22x22.png -resize 200% empty_22x22.png.big
+convert empty_22x22.xcf -resize 200% empty_22x22.xcf.big
+convert empty_slot_big.png -resize 200% empty_slot_big.png.big
+convert empty_slot.png -resize 200% empty_slot.png.big
+convert enrage.png -resize 200% enrage.png.big
+convert enrage_pressed.png -resize 200% enrage_pressed.png.big
+convert filelist.tmp -resize 200% filelist.tmp.big
+convert mage -resize 200% mage.big
+convert power_strike_big.png -resize 200% power_strike_big.png.big
+convert power_strike.png -resize 200% power_strike.png.big
+convert power_strike_pressed.png -resize 200% power_strike_pressed.png.big
+convert shield_wall.png -resize 200% shield_wall.png.big
+convert shield_wall_pressed.png -resize 200% shield_wall_pressed.png.big
+convert whirlwind_stance.png -resize 200% whirlwind_stance.png.big
+convert whirlwind_stance_pressed.png -resize 200% whirlwind_stance_pressed.png.big

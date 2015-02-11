@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!--
+    Document   : RoadToVillage.xml
+    Created on : December 14, 2008, 11:13 AM
+    Author     : Ville
+    Description:
+        Purpose of the document follows.
+-->
+<area name="Road to Border Kingdom" background="/images/background/to_village_zuruck.png" path="Road" level="8">
+    <room>
+    </room>
+
+    <room>
+        <monster class="fi.darkwood.level.three.monsters.FencingGuard" level="2"/>
+    </room>
+
+    <room>
+        <monster class="fi.darkwood.level.three.monsters.FencingGuard" level="2"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.three.monsters.FencingGuard" level="2"/>
+        <monster class="fi.darkwood.level.three.monsters.FencingGuard" level="2"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.three.monsters.FencingGuard" level="2"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.three.monsters.FencingGuard" level="2"/>
+        <monster class="fi.darkwood.level.three.monsters.FencingGuard" level="2"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.three.monsters.FencingGuard" level="2"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.three.monsters.FencingGuard" level="2"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.three.monsters.FencingGuard" level="2"/>
+    </room>
+    <room>
+        <chest class="fi.darkwood.Chest" level="8" quality="-1"/>
+
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.three.monsters.Bandit" level="0"/>
+        <monster class="fi.darkwood.level.three.monsters.Bandit" level="0"/>
+        <monster class="fi.darkwood.level.three.monsters.Bandit" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.three.monsters.Bandit" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.three.monsters.Bandit" level="0"/>
+        <monster class="fi.darkwood.level.three.monsters.Bandit" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.three.monsters.Bandit" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.three.monsters.Bandit" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.three.monsters.Bandit" level="0"/>
+    </room>
+
+    <room exit="fi.darkwood.level.two.BorderKingdomCapital">
+    </room>
+</area>

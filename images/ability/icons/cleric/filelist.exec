@@ -1,0 +1,10 @@
+convert  -resize 200% .big
+convert filelist.tmp -resize 200% filelist.tmp.big
+convert healing_aura.png -resize 200% healing_aura_big.png
+convert healing_aura_pressed.png -resize 200% healing_aura_pressed_big.png
+convert heal.png -resize 200% heal_big.png
+convert heal_pressed.png -resize 200% heal_pressed_big.png
+convert holy_bolt.png -resize 200% holy_bolt_big.png
+convert holy_bolt_pressed.png -resize 200% holy_bolt_pressed_big.png
+convert weakness.png -resize 200% weakness_big.png
+convert weakness_pressed.png -resize 200% weakness_pressed_big.png

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : Desert.xml
+    Created on : 29. huhtikuuta 2010, 17:32
+    Author     : Ville
+    Description:
+        Purpose of the document follows.
+-->
+
+<area name="Way to undead citadel" background="/images/background/tier6/desert.png" path="Desert" level="24">
+    <room>
+    </room>
+      <room>
+        <monster class="fi.darkwood.level.six.monsters.Skeleton" level="-1"/>
+    </room>
+     <room>
+        <monster class="fi.darkwood.level.six.monsters.Skeleton" level="-1"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.Skeleton" level="-1"/>
+         <monster class="fi.darkwood.level.six.monsters.Skeleton" level="-1"/>
+    </room>
+     <room>
+        <monster class="fi.darkwood.level.six.monsters.Skeleton" level="-1"/>
+         <monster class="fi.darkwood.level.six.monsters.Skeleton" level="-1"/>
+    </room>
+     <room>
+        <monster class="fi.darkwood.level.six.monsters.Skeleton" level="-1"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.SkeletonWarrior" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.SkeletonWarrior" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.SkeletonWarrior" level="0"/>
+        <monster class="fi.darkwood.level.six.monsters.SkeletonWarrior" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.SkeletonWarrior" level="0"/>
+    </room>
+    <room>
+    </room>
+    <room>
+         <chest class="fi.darkwood.Chest" level="24" quality="-1"/>
+    </room>
+    <room exit="fi.darkwood.level.six.CitadelEntrance">
+    </room>
+</area>

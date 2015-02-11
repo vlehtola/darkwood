@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : Pyramid.xml
+    Created on : 29. huhtikuuta 2010, 18:06
+    Author     : Ville
+    Description:
+        Pyramid with Queen and an elite lich before her
+-->
+
+<area name="Rescue the Queen" background="/images/background/tier6/pyramids.png" path="Citadel" level="27">
+    <room>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.BigBat" level="-1"/>
+        <monster class="fi.darkwood.level.six.monsters.BigBat" level="-1"/>
+        <monster class="fi.darkwood.level.six.monsters.BigBat" level="-1"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.Spider" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.Spider" level="0"/>
+        <monster class="fi.darkwood.level.six.monsters.Spider" level="0"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.Spider" level="0"/>
+    </room>   
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.Mummy" level="2"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.Mummy" level="2"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.Skeleton" level="0"/>
+        <monster class="fi.darkwood.level.six.monsters.Mummy" level="2"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.Mummy" level="2"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.Mummy" level="2"/>
+    </room>
+    <room>
+        <monster class="fi.darkwood.level.six.monsters.Mummy" level="2"/>
+    </room>
+    <room>
+        <usableThing class="fi.darkwood.level.six.Lich" level="3" elite="true"/>
+    </room>
+    <room>
+        <usableThing class="fi.darkwood.level.six.CapturedQueen" level="-1"/>
+    </room>
+    <room>
+        <chest class="fi.darkwood.Chest" level="27" quality="2"/>
+    </room>
+</area>
